@@ -1,0 +1,2 @@
+[server]
+maxUploadSize = 4096  # Limit in MB (4GB)

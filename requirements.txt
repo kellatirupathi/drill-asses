@@ -1,0 +1,10 @@
+streamlit
+pandas
+requests
+toml
+python-dotenv
+ffmpeg-python
+pydub
+gdown
+gspread
+google-authS
